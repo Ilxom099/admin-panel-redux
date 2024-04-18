@@ -2,7 +2,9 @@ import React from 'react';
 
 function App(props) {
     return (
-        <div></div>
+        <div>
+            <h1>Admin panel</h1>
+        </div>
     );
 }
 
